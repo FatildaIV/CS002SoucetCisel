@@ -1,0 +1,13 @@
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS002SoucetCisel\CS002SoucetCisel\bin\Debug\netcoreapp3.1\CS002SoucetCisel.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS002SoucetCisel\CS002SoucetCisel\bin\Debug\netcoreapp3.1\CS002SoucetCisel.deps.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS002SoucetCisel\CS002SoucetCisel\bin\Debug\netcoreapp3.1\CS002SoucetCisel.runtimeconfig.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS002SoucetCisel\CS002SoucetCisel\bin\Debug\netcoreapp3.1\CS002SoucetCisel.runtimeconfig.dev.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS002SoucetCisel\CS002SoucetCisel\bin\Debug\netcoreapp3.1\CS002SoucetCisel.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS002SoucetCisel\CS002SoucetCisel\bin\Debug\netcoreapp3.1\CS002SoucetCisel.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS002SoucetCisel\CS002SoucetCisel\obj\Debug\netcoreapp3.1\CS002SoucetCisel.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS002SoucetCisel\CS002SoucetCisel\obj\Debug\netcoreapp3.1\CS002SoucetCisel.AssemblyInfoInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS002SoucetCisel\CS002SoucetCisel\obj\Debug\netcoreapp3.1\CS002SoucetCisel.AssemblyInfo.cs
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS002SoucetCisel\CS002SoucetCisel\obj\Debug\netcoreapp3.1\CS002SoucetCisel.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS002SoucetCisel\CS002SoucetCisel\obj\Debug\netcoreapp3.1\CS002SoucetCisel.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS002SoucetCisel\CS002SoucetCisel\obj\Debug\netcoreapp3.1\CS002SoucetCisel.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS002SoucetCisel\CS002SoucetCisel\obj\Debug\netcoreapp3.1\CS002SoucetCisel.genruntimeconfig.cache
